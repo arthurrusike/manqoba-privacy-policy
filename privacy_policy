@@ -1,0 +1,35 @@
+# Manqoba Privacy Policy
+
+**Last updated: 19 February 2026**
+
+Manqoba (“we”, “our”, “the app”) provides educational tools and services for students. This Privacy Policy explains how we collect, use, and protect your information.
+
+## Information We Collect
+- Name  
+- Email address  
+- Profile picture  
+- Authentication UID  
+- App usage data  
+- School and subscription information (if applicable)
+
+## How We Use Your Information
+We use your information to:
+- Authenticate your account  
+- Personalize your learning experience  
+- Sync your progress across devices  
+- Improve app performance and features  
+
+## How We Store Your Information
+Your data is stored using:
+- Firebase Authentication  
+- Firebase Firestore  
+- Firebase Cloud Storage  
+
+We do not sell your data.
+
+## Account Deletion
+You may delete your account inside the app.  
+This will remove your authentication profile and associated Firestore data.
+
+## Contact Us
+If you have questions, contact us at: **arthur.rusike@gmail.com**
